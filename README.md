@@ -1,5 +1,3 @@
-# assessment-january-2025
-
 # Assessment: Islamic Insurance Product Management System
 
 ## Objective
@@ -7,6 +5,78 @@ Evaluate your ability to:
 1. Build a simple backend service that serves Islamic insurance product information.
 2. Create a frontend that interacts with the backend to display products.
 3. Demonstrate basic coding, problem-solving, and documentation skills in the context of Islamic insurance.
+
+---
+
+## Instructions for the Candidate
+
+### **Submission Options**
+1. **Preferred Submission Method:**  
+   - Push your work to the **GitHub Classroom repository** provided for this assignment.
+   - Submitting via GitHub Classroom will carry **extra points**.
+2. **Alternative Submission Method:**  
+   - If you are unable to use GitHub, email your solution as a `.zip` file to **assessment@takafulbrunei.com***.
+   - Make sure your `.zip` file contains all code files and a `README.md` or `instructions.txt`.
+
+---
+
+### **GitHub Submission Instructions**
+
+1. **Clone the Repository**
+   - Clone the provided Classroom repository to your local machine using the following command:
+     ```bash
+     git clone <repository-link>
+     ```
+     Replace `<repository-link>` with the link to your personal repository for this assignment.
+
+2. **Create Your Work**
+   - Add your backend and frontend code to the repository.
+   - Commit your changes frequently with meaningful commit messages.
+
+3. **Push Your Work**
+   - Use the following Git commands to push your changes:
+     ```bash
+     git add .
+     git commit -m "Initial submission for assessment"
+     git push origin main
+     ```
+
+4. **Verify Your Submission**
+   - After pushing your changes, visit your GitHub Classroom repository to confirm that your files are uploaded correctly.
+
+---
+
+### **Alternative Documentation Option**
+
+If you are unable to create a `README.md` file:
+1. Include a plain text file named `instructions.txt` in your submission.
+   - This file should contain instructions on how to run your backend and frontend.
+2. Alternatively, email the instructions along with your code to **assessment@takafulbrunei.com***.
+
+---
+
+### **Be Creative!**
+- You are encouraged to be as **creative as you want**.
+- Feel free to add:
+  - Unique **features** (e.g., additional filters, advanced functionality).
+  - Enhanced **UI/UX designs** to improve the user experience.
+- While creativity is optional, adding something unique may earn **bonus points**.
+
+---
+
+### **Email Submission Instructions**
+1. **Prepare Your Files**
+   - Zip all the necessary files (including your `README.md` or `instructions.txt`).
+   - Ensure your zip file is named as follows:
+     ```
+     [YourFullName OR Assessment Code]_IslamicInsuranceAssessment.zip
+     ```
+
+2. **Email Your Submission**
+   - Send the zip file to **assessment@takafulbrunei.com** with the subject:
+     ```
+     Submission: Takful Assessment - [Your Full Name OR Assessment Code Given]
+     ```
 
 ---
 
@@ -72,22 +142,19 @@ You need to create a user interface to display the Islamic insurance products fe
 ## Part 3: Documentation (15 Minutes)
 
 ### Task
-1. Write a **README file**:
+1. Write a **README.md** or **instructions.txt** file:
    - Describe how to run the backend and frontend locally.
    - Explain the purpose of each field in the product data (e.g., `type`, `premium`, `shariah_compliant`).
    - Include instructions for setting up the development environment.
 
 ---
 
-## Part 4: Deployment and Testing (Optional, 20 Minutes)
-
-### Scenario
-Now that the app is functional, you need to consider how you would deploy it.
-
-### Task
-1. Write a short description of how you would deploy both the backend and frontend to a cloud platform (e.g., AWS, Heroku, or Vercel).
-   - Include steps for deploying the backend as an API.
-   - Include steps for hosting the frontend (if using a framework like React or Vue).
+## Submission Checklist
+Before submitting your work, make sure:
+1. All your code is committed and pushed to the repository (if submitting via GitHub Classroom).
+2. Your backend and frontend are functional.
+3. Your `README.md` or `instructions.txt` file contains clear instructions on how to set up and run your project.
+4. You’ve mentioned any creative additions or unique features in your submission.
 
 ---
 
@@ -98,16 +165,9 @@ Now that the app is functional, you need to consider how you would deploy it.
 | Backend Development     | Correctness and clarity of API implementation, data structure, and error handling. |
 | Frontend Development    | Clean, user-friendly UI, correct data fetching, and filtering.             |
 | Problem Solving         | Ability to implement filtering and querying based on requirements.        |
-| Documentation           | Clarity of README, completeness of instructions, and understanding of the context. |
-| Deployment (Optional)   | Clear, step-by-step deployment instructions.                              |
-
----
-
-## Instructions for the Candidate
-1. Use any tech stack you are comfortable with (e.g., **FastAPI**, **Flask**, **Node.js** for the backend and **React**, **Vue**, **HTML/CSS/JavaScript** for the frontend).
-2. Submit your solution as a GitHub repository or a `.zip` file with the code and README file.
-3. Ensure the solution runs locally without errors. 
-4. You may use Google or documentation to complete the tasks.
+| Documentation           | Clarity of README or instructions.txt, completeness of setup instructions. |
+| Creativity              | Unique features, UI/UX design enhancements, and extra functionality.      |
+| Submission Method       | Pushing your work to GitHub Classroom earns extra points.                 |
 
 ---
 
