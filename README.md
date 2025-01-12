@@ -15,7 +15,7 @@ Evaluate your ability to:
    - Push your work to the **GitHub Classroom repository** provided for this assignment.
    - Submitting via GitHub Classroom will carry **extra points**.
 2. **Alternative Submission Method:**  
-   - If you are unable to use GitHub, email your solution as a `.zip` file to **assessment@takafulbrunei.com***.
+   - If you are unable to use GitHub, email your solution as a `.zip` file to **assessment@takafulbrunei.com**.
    - Make sure your `.zip` file contains all code files and a `README.md` or `instructions.txt`.
 
 ---
@@ -23,11 +23,12 @@ Evaluate your ability to:
 ### **GitHub Submission Instructions**
 
 1. **Clone the Repository**
+   - After accepting the assignment in GitHub Classroom, a personal repository will be created for you.
    - Clone the provided Classroom repository to your local machine using the following command:
      ```bash
      git clone <repository-link>
      ```
-     Replace `<repository-link>` with the link to your personal repository for this assignment.
+     Replace `<repository-link>` with the link to your personal repository for this assignment. This link will be available when you accept the assignment.
 
 2. **Create Your Work**
    - Add your backend and frontend code to the repository.
@@ -51,7 +52,7 @@ Evaluate your ability to:
 If you are unable to create a `README.md` file:
 1. Include a plain text file named `instructions.txt` in your submission.
    - This file should contain instructions on how to run your backend and frontend.
-2. Alternatively, email the instructions along with your code to **assessment@takafulbrunei.com***.
+2. Alternatively, email the instructions along with your code to **assessment@takafulbrunei.com**.
 
 ---
 
@@ -75,7 +76,7 @@ If you are unable to create a `README.md` file:
 2. **Email Your Submission**
    - Send the zip file to **assessment@takafulbrunei.com** with the subject:
      ```
-     Submission: Takful Assessment - [Your Full Name OR Assessment Code Given]
+     Submission: Takaful Assessment - [Your Full Name OR Assessment Code Given]
      ```
 
 ---
