@@ -20,6 +20,20 @@ Evaluate your ability to:
 
 ---
 
+### **Assessment Timing**
+
+- This assessment is designed to be completed within **2 hours**.
+- We will track your:
+  - **Start time**: When you accept the assignment on GitHub Classroom.
+  - **End time**: When you push your code to the repository.
+- Ensure you do not exceed the allocated 2-hour time frame during your attempt.
+- If you cannot complete all tasks within the time limit:
+  - Submit what you have completed.
+
+> **Tip:** Plan your time wisely and focus on completing key sections that you are most comfortable with first.
+
+---
+
 
 ### **Important Note**
 - While we encourage you to make your application functional, **it is not a strict requirement** for this assessment.
