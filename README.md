@@ -20,6 +20,20 @@ Evaluate your ability to:
 
 ---
 
+
+### **Important Note**
+- While we encourage you to make your application functional, **it is not a strict requirement** for this assessment.
+- Our primary focus will be on:
+  - The quality, structure, and readability of your code.
+  - Your problem-solving approach.
+  - Your ability to document and explain your work.
+- If your application doesn’t fully work, ensure that you clearly document:
+  - What parts are functional.
+  - Any challenges or blockers you faced.
+  - How you would resolve them if given more time.
+ 
+---
+
 ### **GitHub Submission Instructions**
 
 1. **Clone the Repository**
