@@ -27,10 +27,6 @@ Evaluate your ability to:
   - The quality, structure, and readability of your code.
   - Your problem-solving approach.
   - Your ability to document and explain your work.
-- If your application doesn’t fully work, ensure that you clearly document:
-  - What parts are functional.
-  - Any challenges or blockers you faced.
-  - How you would resolve them if given more time.
  
 ---
 
@@ -95,7 +91,7 @@ If you are unable to create a `README.md` file:
 
 ---
 
-## Part 1: Backend Development (30 Minutes)
+## Part 1: Backend Development
 
 ### Scenario
 You are tasked with creating an API to manage Islamic insurance products (Takaful products). Each product must have the following information:
@@ -138,7 +134,7 @@ You are tasked with creating an API to manage Islamic insurance products (Takafu
 
 ---
 
-## Part 2: Frontend Development (45 Minutes)
+## Part 2: Frontend Development
 
 ### Scenario
 You need to create a user interface to display the Islamic insurance products fetched from the backend.
@@ -154,7 +150,7 @@ You need to create a user interface to display the Islamic insurance products fe
 
 ---
 
-## Part 3: Documentation (15 Minutes)
+## Part 3: Documentation
 
 ### Task
 1. Write a **README.md** or **instructions.txt** file:
